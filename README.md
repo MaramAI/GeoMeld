@@ -36,7 +36,7 @@ Mohamed bin Zayed University of Artificial Intelligence
 
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Paper-CVPR%20MORSE-green"></a>
+<a href="https://arxiv.org/abs/2604.10591"><img src="https://img.shields.io/badge/Paper-CVPR%20MORSE-green"></a>
 <a href="https://huggingface.co/datasets/vimageiitb/GeoMeld"><img src="https://img.shields.io/badge/Dataset-HuggingFace-yellow"></a>
 <a href="#"><img src="https://img.shields.io/badge/License-Apache%202.0-blue"></a>
 </p> 
@@ -151,10 +151,14 @@ See [Download page](docs/Download.md) for full details.
 
 ## 📚 Citation
 ```bash
-@inproceedings{maram2026geomeld,
-  title={GeoMeld: Toward Semantically Grounded Foundation Models for Remote Sensing},
-  author={Maram Hasan, Md Aminur Hossain, Savitra Vardhan Roy, Souparna Bhowmik, Ayush V. Patel, Mainak Singha, Subhasis Chaudhuri, Muhammad Haris Khan, Biplab Banerjee},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) },
-  year={2026} 
-}
+
+@misc{hasan2026geomeldsemanticallygroundedfoundation,
+      title={GeoMeld: Toward Semantically Grounded Foundation Models for Remote Sensing}, 
+      author={Maram Hasan and Md Aminur Hossain and Savitra Roy and Souparna Bhowmik and Ayush V. Patel and Mainak Singha and Subhasis Chaudhuri and Muhammad Haris Khan and Biplab Banerjee},
+      year={2026},
+      eprint={2604.10591},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.10591}, 
+} 
 ```
