@@ -152,13 +152,10 @@ See [Download page](docs/Download.md) for full details.
 ## 📚 Citation
 ```bash
 
-@misc{hasan2026geomeldsemanticallygroundedfoundation,
-      title={GeoMeld: Toward Semantically Grounded Foundation Models for Remote Sensing}, 
-      author={Maram Hasan and Md Aminur Hossain and Savitra Roy and Souparna Bhowmik and Ayush V. Patel and Mainak Singha and Subhasis Chaudhuri and Muhammad Haris Khan and Biplab Banerjee},
-      year={2026},
-      eprint={2604.10591},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2604.10591}, 
-} 
+@article{hasan2026geomeld,
+  title={GeoMeld: Toward Semantically Grounded Foundation Models for Remote Sensing},
+  author={Hasan, Maram and Hossain, Md Aminur and Roy, Savitra and Bhowmik, Souparna and Patel, Ayush V and Singha, Mainak and Chaudhuri, Subhasis and Khan, Muhammad Haris and Banerjee, Biplab},
+  journal={arXiv preprint arXiv:2604.10591},
+  year={2026}
+}
 ```
